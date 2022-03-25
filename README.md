@@ -10,7 +10,7 @@ Currency exchange rates are fetched from the following API: [exchangeratesapi.io
 
   * HTML
   * CSS
-  * Botstrap v.5.1.3
+  * Bootstrap v.5.1.3
   * JavaScript
 
 ## Live Demo
